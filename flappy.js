@@ -109,7 +109,7 @@ function gameOver() {
         game.destroy();
 }
 
-function gameOver() {
+function gameOver1() {
         location.reload();
 }
 
